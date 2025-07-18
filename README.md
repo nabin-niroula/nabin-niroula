@@ -1,4 +1,13 @@
-## Hi there 👋
+## Software Engineer Turned Cyber Security Analyst
+
+<a href="https://www.linkedin.com/in/nabin-niroula44/"> 
+ <img src="https://img.shields.io/badge/LinkedIn-badge&logo=LinkedIn&color=blue" />
+</a>
+
+///////
+<img src="https://img.shields.io/badge/LinkedIn-badge&logo=LinkedIn&color=blue" />
+///////
+
 
 <!--
 **nabin-niroula/nabin-niroula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
