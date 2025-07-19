@@ -63,7 +63,7 @@ BS in Computer Science with 2+ years of software engineering experience did not 
         </span>
         <!-- Virus Total -->
         <span>
-        <img src="https://img.shields.io/badge/Virus Total-white?style=for-the-badge&logoColor=green&logoSize=large&labelColor=green ">
+        <img src="https://img.shields.io/badge/Virus Total-plum?style=for-the-badge&logoColor=green&logoSize=large&labelColor=green ">
         </span>
     </div>
     <div>
@@ -129,7 +129,7 @@ BS in Computer Science with 2+ years of software engineering experience did not 
         </span>
         <!-- No SQL -->
         <span>
-        <img src="https://img.shields.io/badge/NoSQL-white?style=for-the-badge&logoColor=green&logoSize=large&labelColor=green ">
+        <img src="https://img.shields.io/badge/NoSQL-orchid?style=for-the-badge&logoColor=green&logoSize=large&labelColor=green ">
         </span>
     </div>
     <div>
