@@ -1,4 +1,4 @@
-### Hello, I'm Nabin Niroula
+### Hello, click and explore my digital presence
 
 <span> <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/nabin-niroula44/"> 
@@ -16,11 +16,11 @@
     </a>
 </span>
 
-## About Me...
-I'm a ``Software Engineer`` turned ``SOC(Security Operations Center) Analyst`` with 3+ years of full stack Software development exeperience complemented by 1+ years of SOC Analyst experience, utilizing SIEM and OSINT tools including Splunk, IBM QRADAR, Jira Ticketing System with Kanban board, Falcon, CrowStrike, Virus Total, Shodan, Talos, CyberChef, and many more Computer Networking tools.
+## About Me
+I am a ``Software Engineer`` turned ``Security Operations Center (SOC) Analyst``, bringing over 3 years of experience in full-stack software development and more than 1 year in cybersecurity. With a Bachelor's degree in Computer Science and over two years of experience as a Software Engineer, my curiosity and passion for cybersecurity drove me to pursue graduate studies in Computer Science, focusing on research in Computer Networking and Cybersecurity. My SOC expertise includes utilizing SIEM and OSINT tools such as Splunk, IBM QRadar, CrowdStrike, Falcon, VirusTotal, Shodan, Talos, CyberChef, and various computer networking utilities. I am also proficient with the Jira Ticketing System and Kanban boards for efficient incident tracking and task management.
 
 ## Objective
-BS in Computer Science with 2+ years of software engineering experience did not quench my thurst for diving deep into Cyber Security field, propeling me to pursue graduate studies in Computer Science with a research focused on Computer Networking and Cyber Security. Currently, I am a software engineer at a company, however, actively seeking an opportunity to transition into Cyber Security field, specifically ``Tier 1 SOC Analyst`` role.
+While I currently work as a Software Engineer, I am actively seeking opportunities to transition into the cybersecurity field—specifically aiming for a ``Tier 1 SOC Analyst`` role where I can apply my technical foundation, analytical mindset, and hands-on knowledge of secure coding and security tools to protect digital infrastructure and respond to threats in real time.
 
 ## Skills and Associated Projects
 1. SIEM Implementation & Log Analysis: <br>
@@ -146,7 +146,7 @@ BS in Computer Science with 2+ years of software engineering experience did not 
 
 ## Education
 MS, Computer Science with research emphasis in Cyber Security and Computer Networking - 2024 <br>
-    &emsp; &emsp; University of Colorado Denver <br>
+    &emsp; &emsp; University of Colorado Denver <br> <br>
 BS, Computer Science and Mathematics - 2019 <br>
    &emsp; &emsp; Metropolitan State University of Denver 
 
