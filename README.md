@@ -6,7 +6,7 @@
     </a>
 </span> &emsp;
 <span> <!-- Software Engineering Portfolio -->
-    <a href="https://www.linkedin.com/in/nabin-niroula44/"> 
+    <a href="https://nniroula.github.io/nabinn/"> 
         <img src="https://img.shields.io/badge/Software Engineering Portfolio-logo?style=for-the-badge&labelColor=blue&color=brown" />
     </a>
 </span> &emsp;
