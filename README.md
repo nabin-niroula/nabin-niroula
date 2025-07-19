@@ -27,7 +27,7 @@ While I currently work as a Software Engineer, I am actively seeking opportuniti
     <a href="link the project here"> Click here to view the project</a>
 
 2. Malicious DNS Over Http Traffic Detection and Mitigation skills <br>
-     <a href="link the project here"> Graduate Research & Development Capstone Project</a>
+     <a href="https://github.com/nabin-niroula/ms-capstone"> Graduate Research & Development Capstone Project</a>
 
 3. ``XSS(Cross Site Scripting) attack Analysis and remedy recommendation, implementing OSINT tools and network protocols`` <br>
      <a href="link the project here"> XSS Project</a>
