@@ -166,7 +166,7 @@ BS, Computer Science and Mathematics - 2019 <br>
 ## Certifications
 <div>
     <span>
-        <img src="https://img.shields.io/badge/Graduate Certification in Cyber Security-brown?style=for-the-badge&logoColor=green&logoSize=large&labelColor=green ">
+        <img src="https://img.shields.io/badge/Graduate Certification in Cyber Security-orange?style=for-the-badge&logoColor=green&logoSize=large&labelColor=green ">
     </span>
      <span>
         <img src="https://img.shields.io/badge/AWS Cloud Practitioner-green?style=for-the-badge&logoColor=green&logoSize=large&labelColor=green ">
