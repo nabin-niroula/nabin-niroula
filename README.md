@@ -7,7 +7,7 @@
 </span> &emsp;
 <span> <!-- Software Engineering Portfolio -->
     <a href="https://nniroula.github.io/nabinn/"> 
-        <img src="https://img.shields.io/badge/Software Engineering Portfolio-logo?style=for-the-badge&labelColor=blue&color=brown" />
+        <img src="https://img.shields.io/badge/Software Engineering Portfolio-logo?style=for-the-badge&labelColor=blue&color=indigo" />
     </a>
 </span> &emsp;
 <span> <!-- YouTube Channel -->
