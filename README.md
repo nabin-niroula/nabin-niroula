@@ -1,5 +1,4 @@
-### Hello, click and explore my digital presence
-
+### Hello, explore my digital presence
 <span> <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/nabin-niroula44/"> 
         <img src="https://img.shields.io/badge/LinkedIn View-logo?style=for-the-badge&labelColor=blue&color=blue" />
@@ -17,10 +16,10 @@
 </span>
 
 ## About Me
-I am a ``Software Engineer`` turned ``Security Operations Center (SOC) Analyst``, bringing over 3 years of experience in full-stack software development and more than 1 year in cybersecurity. With a Bachelor's degree in Computer Science and over two years of experience as a Software Engineer, my curiosity and passion for cybersecurity drove me to pursue graduate studies in Computer Science, focusing on research in Computer Networking and Cybersecurity. My ``SOC expertise`` includes utilizing ``SIEM and OSINT`` tools such as Splunk, IBM QRadar, CrowdStrike, Falcon, VirusTotal, Shodan, Talos, CyberChef, and various computer networking utilities. I am also proficient with the Jira Ticketing System and Kanban boards for efficient incident tracking and task management.
+A ``Software Engineer`` turned ``Security Operations Center (SOC) Analyst``, bringing over 3 years of full-stack development experience and 1+ year of hands-on cybersecurity expertise. Holds a Master’s degree in Computer Science with a research concentration in Computer Networking and Cybersecurity. Skilled in leveraging industry-standard SIEM and OSINT tools including Splunk, IBM QRadar, CrowdStrike Falcon, VirusTotal, Shodan, Talos, CyberChef, and a wide range of networking utilities to detect and respond to security threats. Proficient in using Jira and Kanban boards for streamlined incident management and task coordination. Adept at bridging software engineering principles with cybersecurity practices to strengthen organizational defenses and support incident response operations.
 
 ## Objective
-While I currently work as a Software Engineer, I am actively seeking opportunities to transition into the cybersecurity field—specifically aiming for a ``Tier 1 SOC Analyst`` role where I can apply my technical foundation, analytical mindset, and hands-on knowledge of secure coding and security tools to protect digital infrastructure and respond to threats in real time.
+While I currently work as a Software Engineer, I am actively seeking opportunities to transition into the cybersecurity field — specifically aiming for a ``Tier 1 SOC Analyst`` role where I can apply my technical foundation, analytical mindset, and hands-on knowledge of secure coding and security tools to protect digital infrastructure and respond to threats in real time.
 
 ## Skills and Associated Projects
 1. ``SIEM tools(IBM QRadar and Splunk) Implementation & Log Analysis`` <br>
