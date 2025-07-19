@@ -51,6 +51,9 @@ While I currently work as a Software Engineer, I am actively seeking opportuniti
     <a href="https://github.com/nniroula/Hacker_News"> 
     Hacker News App </a>
 
+10. Phishing Email Detection, Analysis and Response<br>
+    <a href="Phishing Email Github Link"> Phishing Email Analysis</a>
+
 ## Tools - (SIEM, OSINT, Networking and Programming tools)
 
 <div>
@@ -161,7 +164,14 @@ BS, Computer Science and Mathematics - 2019 <br>
    &emsp; &emsp; Metropolitan State University of Denver 
 
 ## Certifications
-Graduate Certification in Cyber Security - May 2024 <br>
- &emsp; &emsp; University of Colorado Denver <br>
-AWS Cloud Practitioner - Sep 2023 <br>
- &emsp; &emsp; Amazon Web Services <br>
+<div>
+    <span>
+        <img src="https://img.shields.io/badge/Graduate Certification in Cyber Security-brown?style=for-the-badge&logoColor=green&logoSize=large&labelColor=green ">
+    </span>
+     <span>
+        <img src="https://img.shields.io/badge/AWS Cloud Practitioner-green?style=for-the-badge&logoColor=green&logoSize=large&labelColor=green ">
+    </span>
+     <span>
+        <img src="https://img.shields.io/badge/Full Stack Web Developer-silver?style=for-the-badge&logoColor=green&logoSize=large&labelColor=green ">
+    </span>
+</div>
