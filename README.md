@@ -1,6 +1,6 @@
 <h3 style="color:acqua;" >
     Hello, <br>
-    I'm <span style="color:#000080;"> Cyber Security Analyst </span> & <span style="color:gold;"> Software Engineer </span> 
+    I'm <span style="color:green;"> Cyber Security Analyst </span> & <span style="color:gold;"> Software Engineer </span> 
     <!-- and <span style="color:violet;">Computer Science Instructor</span>. -->
 </h3>
 <br>
