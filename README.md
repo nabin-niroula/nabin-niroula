@@ -1,4 +1,10 @@
-### Hello, explore my digital presence
+<h3 style="color:acqua;" >
+    Hello, <br>
+    I'm <span style="color:cyan;"> Cyber Security Analyst </span> & <span style="color:gold;"> Software Engineer </span> 
+    <!-- and <span style="color:violet;">Computer Science Instructor</span>. -->
+</h3>
+<br>
+
 <span> <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/nabin-niroula44/"> 
         <img src="https://img.shields.io/badge/LinkedIn View-logo?style=for-the-badge&labelColor=blue&color=blue" />
@@ -16,42 +22,49 @@
 </span>
 
 ## About Me
-A ``Software Engineer`` turned ``Security Operations Center (SOC) Analyst``, bringing over 3 years of full-stack development experience and 1+ year of hands-on cybersecurity expertise. Holds a Master’s degree in Computer Science with a research concentration in Computer Networking and Cybersecurity. Skilled in leveraging industry-standard SIEM and OSINT tools including Splunk, IBM QRadar, CrowdStrike Falcon, VirusTotal, Shodan, Talos, CyberChef, and a wide range of networking utilities to detect and respond to security threats. Proficient in using Jira and Kanban boards for streamlined incident management and task coordination. Adept at bridging software engineering principles with cybersecurity practices to strengthen organizational defenses and support incident response operations.
+A <span style="color:gold;">Software Engineer </span> turned <span style="color:cyan;"> Security Operations Center (SOC) Analyst </span>, bringing over 3 years of full-stack development experience and 1+ year of hands-on cybersecurity expertise. Holds a master’s degree in Computer Science with a research concentration in Computer Networking and Cybersecurity. Skilled in leveraging industry-standard SIEM and OSINT tools including Splunk, IBM QRadar, CrowdStrike Falcon, VirusTotal, Shodan, Talos, CyberChef, and a wide range of networking utilities to detect and respond to security threats. Proficient in using Jira and Kanban boards for streamlined incident management and task coordination. Adept at bridging software engineering principles with cybersecurity practices to strengthen organizational defenses and support incident response operations.
 
 ## Objective
-While I currently work as a Software Engineer, I am actively seeking opportunities to transition into the cybersecurity field — specifically aiming for a ``Tier 1 SOC Analyst`` role where I can apply my technical foundation, analytical mindset, and hands-on knowledge of secure coding and security tools to protect digital infrastructure and respond to threats in real time.
+While I currently work as a Software Engineer, I am actively seeking opportunities to transition into the cybersecurity field — specifically aiming for a <span style="color:violet;">Tier 1 SOC Analyst </span> role where I can apply my technical foundation, analytical mindset, and hands-on knowledge of secure coding and security tools to protect digital infrastructure and respond to threats in real time.
 
 ## Skills and Associated Projects
-1. ``SIEM tools(IBM QRadar and Splunk) Implementation & Log Analysis`` <br>
-    <a href="link the project here"> Click here to view the project</a>
+1. <span style="color:cyan;"> SIEM tools(IBM QRadar and Splunk) Implementation & Log Analysis skills </span> <br>
+    <a href="link the project here"> &emsp;&emsp; Click here to view the project</a>
 
-2. Malicious DNS Over Http Traffic Detection and Mitigation skills <br>
-     <a href="https://github.com/nabin-niroula/ms-capstone"> Graduate Research & Development Capstone Project</a>
+2. <span style="color:orange;"> Malicious DNS Over Http Traffic Detection and Mitigation skills </span> <br>
+     <a href="https://github.com/nabin-niroula/ms-capstone"> &emsp;&emsp; view Graduate Research & Development Capstone Project</a>
 
-3. ``XSS(Cross Site Scripting) attack Analysis and remedy recommendation, implementing OSINT tools and network protocols`` <br>
-     <a href="link the project here"> XSS Project</a>
+3. <span style="color:pink;"> XSS(Cross Site Scripting) attack Analysis and remedy recommendation, implementing OSINT tools and network protocols </span> <br>
+     <a href="link the project here"> &emsp;&emsp; view XSS Project</a>
 
-4. SQL Injection Threat Analysis and Report Documentation <br>
-     <a href="link the project here"> SQLi Project</a>
+4. <span style="color:tomato;"> SQL Injection Threat Analysis and Report Documentation skills </span> <br>
+     <a href="link the project here"> &emsp;&emsp; view SQLi Project</a>
 
-5. ``Shell Command Attack Analysis and mitigation skills`` <br>
-    <a href="link the project here"> Shell Command Attack </a>
+5. <span style="color:violet;"> Shell Command Attack Analysis and mitigation skills`` </span> <br>
+    <a href="link the project here"> &emsp;&emsp; view Shell Command Attack </a>
 
 6. Incident Tracking, Response and Task management with Jira Ticketing System and Kanban board <br>
-    <a href="link the project here"> Shell Command Attack </a>
+    <a href="link the project here"> &emsp;&emsp; view Jira Ticketing Project </a>
 
-7. ``TCP/IP, Ports, Software Defined Network, Spanning Tree Protocol, OSI Model, Network flow, etc`` <br>
-    <a href="https://github.com/nniroula/sdn_ryu_mininet"> Network Topology App</a>
+7. <span style="color:yellow;"> TCP/IP, Ports, Software Defined Network, Spanning Tree Protocol, OSI Model, Network flow, etc </span> <br>
+    <a href="https://github.com/nniroula/sdn_ryu_mininet"> &emsp;&emsp; view Network Topology App</a>
 
-8. Advanced Python Programming and Brute Force Attack Mitigation Skills <br>
-    <a href="https://github.com/nniroula/Password_Brute_Force/tree/main">           Random Password Generator App</a>
+8. <span style="color:plum;"> Advanced Python Programming and Brute Force Attack Mitigation Skills </span> <br>
+    <a href="https://github.com/nniroula/Password_Brute_Force/tree/main"> &emsp;&emsp; view Random Password Generator App</a>
 
-9. ``Advanced DOM-Based XSS attack mitigation, JavaScript Programming, and Identity and Access Management(IAM) skills`` <br>
+9. <span style="color:orange;"> Advanced DOM-Based XSS attack mitigation, JavaScript Programming, and Identity and Access Management(IAM) skills </span> <br>
     <a href="https://github.com/nniroula/Hacker_News"> 
-    Hacker News App </a>
+   &emsp;&emsp; view Hacker News App </a>
 
-10. Phishing Email Detection, Analysis and Response<br>
-    <a href="Phishing Email Github Link"> Phishing Email Analysis</a>
+10. <span style="color:skyblue;"> Phishing Email Detection, Analysis and Incident Response skills <br>
+    <a href="Phishing Email Github Link"> </span> &emsp;&emsp; view Phishing Email Analysis project</a>
+
+11. <span style="color:crimson;"> Network traffic Analysis skills</span> <br>
+    <a href="Wireshark"> &emsp;&emsp; view Wireshark project</a>
+
+12. <span style="color:lightgreen;"> Network Vulnerability Scanning skills </span> <br>
+    <a href="vulnerability scanning with nessus"> &emsp;&emsp; view Nessus vulnerability assessment Project</a>
+
 
 ## Tools - (SIEM, OSINT, Networking and Programming tools)
 
