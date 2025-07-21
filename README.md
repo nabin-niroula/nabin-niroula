@@ -22,10 +22,10 @@
 </span>
 
 ## About Me
-A <span style="color:gold;">Software Engineer </span> turned <span style="color:green;"> Security Operations Center (SOC) Analyst </span>, bringing over 3 years of full-stack development experience and 1+ year of hands-on cybersecurity expertise. Holds a master’s degree in Computer Science with a research concentration in Computer Networking and Cybersecurity. Skilled in leveraging industry-standard SIEM and OSINT tools including Splunk, IBM QRadar, CrowdStrike Falcon, VirusTotal, Shodan, Talos, CyberChef, and a wide range of networking utilities to detect and respond to security threats. Proficient in using Jira and Kanban boards for streamlined incident management and task coordination. Adept at bridging software engineering principles with cybersecurity practices to strengthen organizational defenses and support incident response operations.
+A <span style="color:gold;"> <b> Software Engineer </b> </span> turned <span style="color:green;"> <b> Security Operations Center (SOC) Analyst </b> </span>, bringing over 3 years of full-stack development experience and 1+ year of hands-on cybersecurity expertise. Holds a master’s degree in Computer Science with a research concentration in Computer Networking and Cybersecurity. Skilled in leveraging industry-standard SIEM and OSINT tools including Splunk, IBM QRadar, CrowdStrike Falcon, VirusTotal, Shodan, Talos, CyberChef, and a wide range of networking utilities to detect and respond to security threats. Proficient in using Jira and Kanban boards for streamlined incident management and task coordination. Adept at bridging software engineering principles with cybersecurity practices to strengthen organizational defenses and support incident response operations.
 
 ## Objective
-While I currently work as a Software Engineer, I am actively seeking opportunities to transition into the cybersecurity field — specifically aiming for a <span style="color:violet;">Tier 1 SOC Analyst </span> role where I can apply my technical foundation, analytical mindset, and hands-on knowledge of secure coding and security tools to protect digital infrastructure and respond to threats in real time.
+While I currently work as a Software Engineer, I am actively seeking opportunities to transition into the cybersecurity field — specifically aiming for a <span style="color:violet;"> <b> Tier 1 SOC Analyst </b> </span> role where I can apply my technical foundation, analytical mindset, and hands-on knowledge of secure coding and security tools to protect digital infrastructure and respond to threats in real time.
 
 ## Skills and Associated Projects
 1. <span style="color:green;"> SIEM tools(IBM QRadar and Splunk) Implementation & Log Analysis skills </span> <br>
@@ -43,7 +43,7 @@ While I currently work as a Software Engineer, I am actively seeking opportuniti
 5. <span style="color:violet;"> Shell Command Attack Analysis and mitigation skills`` </span> <br>
     <a href="link the project here"> &emsp;&emsp; view Shell Command Attack </a>
 
-6. Incident Tracking, Response and Task management with Jira Ticketing System and Kanban board <br>
+6. <span style="color:grey;"> Incident Tracking, Response and Task management with Jira Ticketing System and Kanban board </span> <br>
     <a href="link the project here"> &emsp;&emsp; view Jira Ticketing Project </a>
 
 7. <span style="color:green;"> TCP/IP, Ports, Software Defined Network, Spanning Tree Protocol, OSI Model, Network flow, etc </span> <br>
@@ -62,7 +62,7 @@ While I currently work as a Software Engineer, I am actively seeking opportuniti
 11. <span style="color:crimson;"> Network traffic Analysis skills</span> <br>
     <a href="Wireshark"> &emsp;&emsp; view Wireshark project</a>
 
-12. <span style="color:lightgreen;"> Network Vulnerability Scanning skills </span> <br>
+12. <span style="color:green;"> Network Vulnerability Scanning skills </span> <br>
     <a href="vulnerability scanning with nessus"> &emsp;&emsp; view Nessus vulnerability assessment Project</a>
 
 
