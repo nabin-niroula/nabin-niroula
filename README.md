@@ -29,41 +29,41 @@ While I currently work as a Software Engineer, I am actively seeking opportuniti
 
 ## Skills and Associated Projects
 1. <span style="color:green;"> SIEM tools(IBM QRadar and Splunk) Implementation & Log Analysis skills </span> <br>
-   &emsp;&emsp; <a href="link the project here"> Click here to view the project</a>
+   &emsp;&emsp; <a href="link the project here" target="_blank"> Click here to view the project</a>
 
 2. <span style="color:orange;"> Malicious DNS Over Http Traffic Detection and Mitigation skills </span> <br>
-     &emsp;&emsp; <a href="https://github.com/nabin-niroula/ms-capstone"> view Graduate Research & Development Capstone Project</a>
+     &emsp;&emsp; <a href="https://github.com/nabin-niroula/ms-capstone" target="_blank"> view Graduate Research & Development Capstone Project</a>
 
 3. <span style="color:brown;"> XSS(Cross Site Scripting) attack Analysis and remedy recommendation, implementing OSINT tools and network protocols </span> <br>
-    &emsp;&emsp; <a href="link the project here"> view XSS Project</a>
+    &emsp;&emsp; <a href="link the project here" target="_blank"> view XSS Project</a>
 
 4. <span style="color:tomato;"> SQL Injection Threat Analysis and Report Documentation skills </span> <br>
-    &emsp;&emsp; <a href="link the project here">  view SQLi Project</a>
+    &emsp;&emsp; <a href="link the project here" target="_blank">  view SQLi Project</a>
 
 5. <span style="color:violet;"> Shell Command Attack Analysis and mitigation skills </span> <br>
-   &emsp;&emsp; <a href="link the project here"> view Shell Command Attack </a>
+   &emsp;&emsp; <a href="link the project here" target="_blank"> view Shell Command Attack </a>
 
 6. <span style="color:grey;"> Incident Tracking, Response and Task management with Jira Ticketing System and Kanban board </span> <br>
-   &emsp;&emsp; <a href="link the project here"> view Jira Ticketing Project </a>
+   &emsp;&emsp; <a href="link the project here" target="_blank"> view Jira Ticketing Project </a>
 
 7. <span style="color:green;"> TCP/IP, Ports, Software Defined Network, Spanning Tree Protocol, OSI Model, Network flow, etc </span> <br>
-    &emsp;&emsp; <a href="https://github.com/nniroula/sdn_ryu_mininet"> view Network Topology App</a>
+    &emsp;&emsp; <a href="https://github.com/nniroula/sdn_ryu_mininet" target="_blank"> view Network Topology App</a>
 
 8. <span style="color:plum;"> Advanced Python Programming and Brute Force Attack Mitigation Skills </span> <br>
-   &emsp;&emsp; <a href="https://github.com/nniroula/Password_Brute_Force/tree/main"> view Random Password Generator App</a>
+   &emsp;&emsp; <a href="https://github.com/nniroula/Password_Brute_Force/tree/main" target="_blank"> view Random Password Generator App</a>
 
 9. <span style="color:orange;"> Advanced DOM-Based XSS attack mitigation, JavaScript Programming, and Identity and Access Management(IAM) skills </span> <br>
-    &emsp;&emsp; <a href="https://github.com/nniroula/Hacker_News"> 
+    &emsp;&emsp; <a href="https://github.com/nniroula/Hacker_News" target="_blank"> 
     view Hacker News App </a>
 
 10. <span style="color:skyblue;"> Phishing Email Detection, Analysis and Incident Response skills </span> <br>
-    &emsp;&emsp; <a href="Phishing Email Github Link">  view Phishing Email Analysis project</a>
+    &emsp;&emsp; <a href="Phishing Email Github Link" target="_blank">  view Phishing Email Analysis project</a>
 
 11. <span style="color:crimson;"> Network traffic Analysis skills</span> <br>
-    &emsp;&emsp; <a href="Wireshark"> view Wireshark project</a>
+    &emsp;&emsp; <a href="Wireshark" target="_blank"> view Wireshark project</a>
 
 12. <span style="color:green;"> Network Vulnerability Scanning skills </span> <br>
-   &emsp;&emsp; <a href="vulnerability scanning with nessus"> view Nessus vulnerability assessment Project</a>
+   &emsp;&emsp; <a href="vulnerability scanning with nessus" target="_blank"> view Nessus vulnerability assessment Project</a>
 
 
 ## Tools - (SIEM, OSINT, Networking and Programming tools)
