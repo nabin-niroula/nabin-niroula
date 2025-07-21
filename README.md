@@ -40,7 +40,7 @@ While I currently work as a Software Engineer, I am actively seeking opportuniti
 4. <span style="color:tomato;"> SQL Injection Threat Analysis and Report Documentation skills </span> <br>
      <a href="link the project here"> &emsp;&emsp; view SQLi Project</a>
 
-5. <span style="color:violet;"> Shell Command Attack Analysis and mitigation skills`` </span> <br>
+5. <span style="color:violet;"> Shell Command Attack Analysis and mitigation skills </span> <br>
     <a href="link the project here"> &emsp;&emsp; view Shell Command Attack </a>
 
 6. <span style="color:grey;"> Incident Tracking, Response and Task management with Jira Ticketing System and Kanban board </span> <br>
