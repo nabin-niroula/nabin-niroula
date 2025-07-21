@@ -22,19 +22,19 @@
 </span>
 
 ## About Me
-A <span style="color:gold;">Software Engineer </span> turned <span style="color:cyan;"> Security Operations Center (SOC) Analyst </span>, bringing over 3 years of full-stack development experience and 1+ year of hands-on cybersecurity expertise. Holds a master’s degree in Computer Science with a research concentration in Computer Networking and Cybersecurity. Skilled in leveraging industry-standard SIEM and OSINT tools including Splunk, IBM QRadar, CrowdStrike Falcon, VirusTotal, Shodan, Talos, CyberChef, and a wide range of networking utilities to detect and respond to security threats. Proficient in using Jira and Kanban boards for streamlined incident management and task coordination. Adept at bridging software engineering principles with cybersecurity practices to strengthen organizational defenses and support incident response operations.
+A <span style="color:gold;">Software Engineer </span> turned <span style="color:green;"> Security Operations Center (SOC) Analyst </span>, bringing over 3 years of full-stack development experience and 1+ year of hands-on cybersecurity expertise. Holds a master’s degree in Computer Science with a research concentration in Computer Networking and Cybersecurity. Skilled in leveraging industry-standard SIEM and OSINT tools including Splunk, IBM QRadar, CrowdStrike Falcon, VirusTotal, Shodan, Talos, CyberChef, and a wide range of networking utilities to detect and respond to security threats. Proficient in using Jira and Kanban boards for streamlined incident management and task coordination. Adept at bridging software engineering principles with cybersecurity practices to strengthen organizational defenses and support incident response operations.
 
 ## Objective
 While I currently work as a Software Engineer, I am actively seeking opportunities to transition into the cybersecurity field — specifically aiming for a <span style="color:violet;">Tier 1 SOC Analyst </span> role where I can apply my technical foundation, analytical mindset, and hands-on knowledge of secure coding and security tools to protect digital infrastructure and respond to threats in real time.
 
 ## Skills and Associated Projects
-1. <span style="color:cyan;"> SIEM tools(IBM QRadar and Splunk) Implementation & Log Analysis skills </span> <br>
+1. <span style="color:green;"> SIEM tools(IBM QRadar and Splunk) Implementation & Log Analysis skills </span> <br>
     <a href="link the project here"> &emsp;&emsp; Click here to view the project</a>
 
 2. <span style="color:orange;"> Malicious DNS Over Http Traffic Detection and Mitigation skills </span> <br>
      <a href="https://github.com/nabin-niroula/ms-capstone"> &emsp;&emsp; view Graduate Research & Development Capstone Project</a>
 
-3. <span style="color:pink;"> XSS(Cross Site Scripting) attack Analysis and remedy recommendation, implementing OSINT tools and network protocols </span> <br>
+3. <span style="color:brown;"> XSS(Cross Site Scripting) attack Analysis and remedy recommendation, implementing OSINT tools and network protocols </span> <br>
      <a href="link the project here"> &emsp;&emsp; view XSS Project</a>
 
 4. <span style="color:tomato;"> SQL Injection Threat Analysis and Report Documentation skills </span> <br>
@@ -46,7 +46,7 @@ While I currently work as a Software Engineer, I am actively seeking opportuniti
 6. Incident Tracking, Response and Task management with Jira Ticketing System and Kanban board <br>
     <a href="link the project here"> &emsp;&emsp; view Jira Ticketing Project </a>
 
-7. <span style="color:yellow;"> TCP/IP, Ports, Software Defined Network, Spanning Tree Protocol, OSI Model, Network flow, etc </span> <br>
+7. <span style="color:green;"> TCP/IP, Ports, Software Defined Network, Spanning Tree Protocol, OSI Model, Network flow, etc </span> <br>
     <a href="https://github.com/nniroula/sdn_ryu_mininet"> &emsp;&emsp; view Network Topology App</a>
 
 8. <span style="color:plum;"> Advanced Python Programming and Brute Force Attack Mitigation Skills </span> <br>
@@ -56,8 +56,8 @@ While I currently work as a Software Engineer, I am actively seeking opportuniti
     <a href="https://github.com/nniroula/Hacker_News"> 
    &emsp;&emsp; view Hacker News App </a>
 
-10. <span style="color:skyblue;"> Phishing Email Detection, Analysis and Incident Response skills <br>
-    <a href="Phishing Email Github Link"> </span> &emsp;&emsp; view Phishing Email Analysis project</a>
+10. <span style="color:skyblue;"> Phishing Email Detection, Analysis and Incident Response skills </span> <br>
+    <a href="Phishing Email Github Link">  &emsp;&emsp; view Phishing Email Analysis project</a>
 
 11. <span style="color:crimson;"> Network traffic Analysis skills</span> <br>
     <a href="Wireshark"> &emsp;&emsp; view Wireshark project</a>
